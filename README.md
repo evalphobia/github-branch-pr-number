@@ -1,7 +1,7 @@
 github-branch-pr-number
 ----
 
-[![GoDoc][1]][2] [![License: MIT][3]][4] [![Release][5]][6] [![Build Status][7]][8] [![Co decov Coverage][11]][12] [![Go Report Card][13]][14] [![Downloads][15]][16]
+[![GoDoc][1]][2] [![License: MIT][3]][4] [![Release][5]][6] [![Build Status][7]][8] [![Codecov Coverage][11]][12] [![Go Report Card][13]][14] [![Code Climate][19]][20] [![BCH compliance][21]][22]
 
 [1]: https://godoc.org/github.com/evalphobia/github-branch-pr-number?status.svg
 [2]: https://godoc.org/github.com/evalphobia/github-branch-pr-number
@@ -21,6 +21,10 @@ github-branch-pr-number
 [16]: https://github.com/evalphobia/github-branch-pr-number/releases
 [17]: https://img.shields.io/github/stars/evalphobia/github-branch-pr-number.svg
 [18]: https://github.com/evalphobia/github-branch-pr-number/stargazers
+[19]: https://codeclimate.com/github/evalphobia/github-branch-pr-number/badges/gpa.svg
+[20]: https://codeclimate.com/github/evalphobia/github-branch-pr-number
+[21]: https://bettercodehub.com/edge/badge/evalphobia/github-branch-pr-number?branch=master
+[22]: https://bettercodehub.com/
 
 `github-branch-pr-number` gets GitHub PullRequst number from branch name through GitHub API.
 
